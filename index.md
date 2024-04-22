@@ -1,4 +1,4 @@
 # Outreach
-This is the outrech page :)
+This is the outreach page :)
 ## Second Heading
 ![cat](cat.jpg)
